@@ -1,0 +1,46 @@
+{
+  "plants": [
+    {
+      "id": "e725",
+      "nombre": "Gerberas",
+      "tipo": "Planta ornamental de flor",
+      "precio": "25",
+      "imagenUrl": "https://www.interflora.es/blog/wp-content/uploads/2019/06/gerberas.jpg"
+    },
+    {
+      "id": "ed81",
+      "nombre": "Lavanda",
+      "tipo": "Planta perenne",
+      "precio": "50",
+      "imagenUrl": "https://www.koldourizarbarrena.com/wp-content/uploads/2021/09/como-cuidar-la-lavanda.jpg"
+    },
+    {
+      "id": "3848",
+      "nombre": "Aloe Vera",
+      "tipo": "Suculenta",
+      "precio": "70",
+      "imagenUrl": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisaradio/CLJVV3VJTBC7BNX2DZBRXOZRLA.jpg"
+    },
+    {
+      "id": "83e5",
+      "nombre": "Cactus de Navidad",
+      "tipo": "Cactácea",
+      "precio": "120",
+      "imagenUrl": "https://www.elmueble.com/medio/2020/11/27/cactus-de-navidad_7f63003e_674x446.jpg"
+    },
+    {
+      "id": "851b",
+      "nombre": "Bambú de la suerte",
+      "tipo": "Planta de interior",
+      "precio": "150",
+      "imagenUrl": "https://imagenes.muyinteresante.com/files/vertical_image_414/uploads/2022/10/13/6348121db79f6.jpeg"
+    },
+    {
+      "id": "5a1c",
+      "nombre": "Rosal",
+      "tipo": "Planta de jardín",
+      "precio": "100",
+      "imagenUrl": "https://centrodejardineriagorbeia.com/wp-content/uploads/2020/01/AdobeStock_274056616-1024x683.jpeg"
+    }
+  ]
+}
